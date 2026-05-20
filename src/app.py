@@ -33,6 +33,12 @@ activities = {
         "max_participants": 20,
         "participants": ["emma@mergington.edu", "sophia@mergington.edu"]
     },
+    "GitHub Skills": {
+        "description": "Learn collaboration skills with GitHub and build open source projects",
+        "schedule": "Fridays, 4:00 PM - 5:30 PM",
+        "max_participants": 25,
+        "participants": ["liam@mergington.edu", "ava@mergington.edu"]
+    },
     "Gym Class": {
         "description": "Physical education and sports activities",
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
@@ -68,12 +74,6 @@ activities = {
         "schedule": "Tuesdays, 3:30 PM - 4:30 PM",
         "max_participants": 10,
         "participants": ["james@mergington.edu", "benjamin@mergington.edu"]
-    },
-    "GitHub Skills": {
-        "description": "Learn GitHub collaboration, version control, and open source workflows",
-        "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
-        "max_participants": 20,
-        "participants": ["alex@mergington.edu", "nina@mergington.edu"]
     },
     "Debate Team": {
         "description": "Develop public speaking and argumentation skills",
